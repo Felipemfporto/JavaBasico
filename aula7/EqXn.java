@@ -1,7 +1,7 @@
 package aula7;
 
 
-public class EqXn extends Delta {
+public class EqXn extends Equacao {
     private double x1;
     private double x2;
     
